@@ -10,7 +10,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 var Model;
 (function (Model) {
-    const HOST = "http://localhost:3000/api";
+    const HOST = "https://bug-free-umbrella-5xpxxpgwxgg27g9w-3000.app.github.dev/api";
     /**
      * Domain object
      */
